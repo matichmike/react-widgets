@@ -5,16 +5,16 @@ import Convert from './Convert';
 
 const options = [
   {
+    label: 'Japanese',
+    value: 'ja'
+  },
+  {
     label: 'Russian',
     value: 'ru'
   },
   {
     label: 'Spanish',
     value: 'es'
-  },
-  {
-    label: 'Japanese',
-    value: 'ja'
   }
 ]
 
