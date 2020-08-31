@@ -1,3 +1,36 @@
+# React Widgets App
+React App that contains small widgets such as:
+- Wikipedia articles search (uses Wikipedia API)
+- Translate widget (uses Google Translate API)
+- Dropdown selector with conditional color text rendering
+- Accordion text selector
+
+The App is deployed\* at Netlify, please click [HERE](https://distracted-boyd-63cb63.netlify.app)
+
+\* The translation widget is operational only at localhost:3000
+
+## Preview
+![“Translate”](https://github.com/matichmike/react-widgets/blob/master/screenshots/translate.png?raw=true)
+<br/>
+<br/>
+![“Wiki search”](https://github.com/matichmike/react-widgets/blob/master/screenshots/wiki.png?raw=true)
+<br/>
+<br/>
+![“Accordion”](https://github.com/matichmike/react-widgets/blob/master/screenshots/translate.png?raw=true)
+<br/>
+<br/>
+![“Dropdown”](https://github.com/matichmike/react-widgets/blob/master/screenshots/color.png?raw=true)
+<br/>
+<br/>
+
+
+## Setup 
+* Clone or Copy the repository
+* npm install
+* npm start
+* run http://localhost:3000/ in browser
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
