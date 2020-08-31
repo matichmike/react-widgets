@@ -7,7 +7,7 @@ React App that contains small widgets such as:
 
 The App is deployed\* at Netlify, please click [HERE](https://distracted-boyd-63cb63.netlify.app)
 
-\* The translation widget is operational only at localhost:3000
+\*The translation widget is operational only at localhost:3000
 
 ## Preview
 ![“Translate”](https://github.com/matichmike/react-widgets/blob/master/screenshots/translate.png?raw=true)
@@ -16,7 +16,7 @@ The App is deployed\* at Netlify, please click [HERE](https://distracted-boyd-63
 ![“Wiki search”](https://github.com/matichmike/react-widgets/blob/master/screenshots/wiki.png?raw=true)
 <br/>
 <br/>
-![“Accordion”](https://github.com/matichmike/react-widgets/blob/master/screenshots/translate.png?raw=true)
+![“Accordion”](https://github.com/matichmike/react-widgets/blob/master/screenshots/accordion.png?raw=true)
 <br/>
 <br/>
 ![“Dropdown”](https://github.com/matichmike/react-widgets/blob/master/screenshots/color.png?raw=true)
